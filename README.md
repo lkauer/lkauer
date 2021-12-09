@@ -7,7 +7,9 @@ I am a fullstack software engineer from Brasil.
 
 <br>
 
-## Connect with me [<img align="left" alt="linkedin" src="https://www.linkedin.com/in/lucas-kauer-b23535163/" />](https://marcas-logos.net/wp-content/uploads/2020/01/LinkedIn-s%C3%ADmbolo.jpg)<br>  
+## Connect with me
+<br>
+[<img align="left" alt="linkedin" src="https://www.linkedin.com/in/lucas-kauer-b23535163/" />](https://marcas-logos.net/wp-content/uploads/2020/01/LinkedIn-s%C3%ADmbolo.jpg)<br>  
 
 <!--
 **lkauer/lkauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
