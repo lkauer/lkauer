@@ -4,9 +4,8 @@ I am a fullstack software engineer from Brasil.
 
 - 🔭 I'm currently working on [SoftExpert](https://www.softexpert.com/)
 - 🌱 I’m currently the guy who make things happen on [Plantiverso](https://github.com/plantiverso/)
-- You can find me on [Linkedin](https://www.linkedin.com/in/lucas-kauer-b23535163/)
 
-### Contatos:
+### Contact:
 
 <div>
 <a href = "mailto:lucasgkauer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
