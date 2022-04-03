@@ -3,7 +3,7 @@
 I am a fullstack software engineer from Brasil. 
 
 - 🔭 Working as software engineer at [SoftExpert](https://www.softexpert.com/)
-- 🌱 Makeing things happen on [Plantiverso](https://github.com/plantiverso/)
+- 🌱 Makeing things happen on [Plantiverso](https://plantiverso.com.br/)
 
 ### Contact:
 
