@@ -3,6 +3,7 @@
 I am a fullstack software engineer from Brasil. 
 
 - 🔭 Working as software engineer at [SoftExpert](https://www.softexpert.com/)
+- 🎹 making noise at [SoftExpert](https://www.somasom.app/) 
 
 ### Contact:
 
